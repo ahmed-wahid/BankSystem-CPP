@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Object files
+*.obj
+*.pdb
+*.ilk
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+
+# Logs
+*.log
