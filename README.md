@@ -73,26 +73,79 @@ g++ -std=c++17 src/*.cpp -I include -o BankSystem
 ## Screenshots
 
 ### Login
-![][Login](images/Login.png)
+<p align="center">
+  <a href="images/Login.png">
+    <img src="images/Login.png" width="600"/>
+  </a>
+</p>
+
+---
 
 ### Main Menu
-![][Main Menu](images/menu_cases.png)
+<p align="center">
+  <a href="images/menu_cases.png">
+    <img src="images/menu_cases.png" width="600"/>
+  </a>
+</p>
+
+---
 
 ### Client Management
+#### Show Clients
+<p align="center">
+  <a href="images/ShowClients.png">
+    <img src="images/ShowClients.png" width="600"/>
+  </a>
+</p>
 
-| Add | Delete | Show | Update | Find |
-|-----|--------|------|--------|------|
-| ![](images/AddClients.png) | ![](images/DeleteClients.png) | ![](images/ShowClients.png) | ![](images/Update.png) | ![](images/FindClient.png) |
+
+#### Add Client
+<p align="center">
+  <a href="images/AddClients.png">
+    <img src="images/AddClients.png" width="600"/>
+  </a>
+</p>
+
+#### Delete Client
+<p align="center">
+  <a href="images/DeleteClients.png">
+    <img src="images/DeleteClients.png" width="600"/>
+  </a>
+</p>
+
+
+#### Update Client
+<p align="center">
+  <a href="images/Update.png">
+    <img src="images/Update.png" width="600"/>
+  </a>
+</p>
+
+#### Find Client
+<p align="center">
+  <a href="images/FindClient.png">
+    <img src="images/FindClient.png" width="600"/>
+  </a>
+</p>
+
+
+---
 
 ### Transactions
+<p align="center">
+  <a href="images/final_transactions_cases.png">
+    <img src="images/final_transactions_cases.png" width="600"/>
+  </a>
+</p>
 
-![][Transactions](images/final_transactions_cases.png)
+---
 
 ### User Management
-
-
-![][User Management](images/manage_users.png)
-
+<p align="center">
+  <a href="images/manage_users.png">
+    <img src="images/manage_users.png" width="600"/>
+  </a>
+</p>
 ---
 ## How It Works
 
