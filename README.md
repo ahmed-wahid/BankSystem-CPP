@@ -25,10 +25,10 @@ file-based persistence, and a permission-driven access model.
 ```bash
 BankSystem/
 ├── src/
-│   ├── main.cpp
+│   ├── Main.cpp
 │   ├── BankSystem.cpp
-│   ├── ManageUser.cpp
-│   ├── ManageClient.cpp
+│   ├── ClientManager.cpp
+│   ├── UserManager.cpp
 │   ├── User.cpp
 │   ├── Client.cpp
 │   ├── FileManager.cpp
@@ -36,8 +36,8 @@ BankSystem/
 │   └── Utils.cpp
 ├── include/
 │   ├── BankSystem.h
-│   ├── ManageUser.h
-│   ├── ManageClient.h
+│   ├── ClientManager.h
+│   ├── UserManager.h
 │   ├── User.h
 │   ├── Client.h
 │   ├── FileManager.h
@@ -45,8 +45,8 @@ BankSystem/
 │   ├── Utils.h
 │   └── States.h
 ├── data/
-│   ├── users.txt
-│   └── clients.txt
+│   ├── BankSystem.txt
+│   └── User.txt
 ├── images/
 └── README.md
 ```
