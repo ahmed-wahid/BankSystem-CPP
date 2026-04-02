@@ -79,14 +79,18 @@ g++ -std=c++17 src/*.cpp -I include -o BankSystem
 ![Main Menu](images/menu_cases.png)
 
 ### Client Management
+
 | Add | Delete | Show | Update | Find |
 |-----|--------|------|--------|------|
 | ![](images/AddClients.png) | ![](images/DeleteClients.png) | ![](images/ShowClients.png) | ![](images/Update.png) | ![](images/FindClient.png) |
 
 ### Transactions
+
 ![Transactions](images/final_transactions_cases.png)
 
 ### User Management
+
+
 ![User Management](images/manage_users.png)
 
 ---
