@@ -73,10 +73,10 @@ g++ -std=c++17 src/*.cpp -I include -o BankSystem
 ## Screenshots
 
 ### Login
-![Login](images/Login.png)
+![][Login](images/Login.png)
 
 ### Main Menu
-![Main Menu](images/menu_cases.png)
+![][Main Menu](images/menu_cases.png)
 
 ### Client Management
 
@@ -86,12 +86,12 @@ g++ -std=c++17 src/*.cpp -I include -o BankSystem
 
 ### Transactions
 
-![Transactions](images/final_transactions_cases.png)
+![][Transactions](images/final_transactions_cases.png)
 
 ### User Management
 
 
-![User Management](images/manage_users.png)
+![][User Management](images/manage_users.png)
 
 ---
 ## How It Works
